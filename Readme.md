@@ -22,3 +22,16 @@ The project explores how raw text is transformed into structured training data f
 - Efficient data loading with PyTorch
 
 ## Structure
+
+.
+├── Tokenizer.ipynb # Custom tokenizer + vocab experiments
+├── InputOutputPair.ipynb # GPT-style dataset construction
+├── README.md
+
+## Usage
+
+1. Install dependencies:
+
+```bash
+pip install torch tiktoken
+```
