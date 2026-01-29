@@ -21,13 +21,6 @@ The project explores how raw text is transformed into structured training data f
 - Next-token prediction objective
 - Efficient data loading with PyTorch
 
-## Structure
-
-.
-├── Tokenizer.ipynb # Custom tokenizer + vocab experiments
-├── InputOutputPair.ipynb # GPT-style dataset construction
-├── README.md
-
 ## Usage
 
 1. Install dependencies:
